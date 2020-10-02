@@ -7,9 +7,9 @@ The Charge mobility in semiconductor materials
 
 ![config](./image.jpg)
 
-***Photo electric effect (laser beam) cause drift mobility of minority charge carriers sweeps length of the semiconductor.***
+***Photo electric effect (laser beam) causes the drift mobility of minority charge carriers sweeps length of the semiconductor.***
 
 Important fields: ***lifetime, drift velocity, electric field***
 
 ## Measurement of drift velocity
-E_s is an internal electric pulse field that produced by a pulsed generator.
+E<sub>s</sub> is an internal electric pulse field that produced by a pulsed generator.
