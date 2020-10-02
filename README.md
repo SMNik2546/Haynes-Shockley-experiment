@@ -12,4 +12,4 @@ The Charge mobility in semiconductor materials
 Important fields: ***lifetime, drift velocity, electric field***
 
 ## Measurement of drift velocity
-E_s is an internal electric pulse field that produced by a pulsed generator.
+![equation]E_{s} is an internal electric pulse field that produced by a pulsed generator.
