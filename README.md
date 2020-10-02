@@ -5,3 +5,4 @@ The Charge mobility in semiconductor materials
 - The effect of the distance between electrodes on the specimen in the production of
 electrons and holes.
 - Measuring of carrier’s lifetime.
+(./SMNIK/Haynes-Shockley-experiment/image.jpg)
