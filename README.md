@@ -26,6 +26,6 @@ function test() {
 }
 ```
 
-function test() {
- console.log("look ma’, no spaces");
-}
+'''python
+print("x" / "y")
+'''
