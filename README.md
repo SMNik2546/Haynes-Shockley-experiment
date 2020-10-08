@@ -20,5 +20,4 @@ second peak is the wider and relevant to minority carriers.
 is the drift velocity.
 </p>
 
-
-$ \sum_{\forall i}{x_i^{2}} $
+\sum_{\forall i}{x_i^{2}}
