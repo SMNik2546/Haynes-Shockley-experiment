@@ -1,4 +1,4 @@
-# Haynes-Shockley-experiment
+# Haynes-Shockley experiment
 The Charge mobility in semiconductor materials
 ## goals
 - Minority charge carriers amount.
