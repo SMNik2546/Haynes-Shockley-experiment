@@ -27,18 +27,8 @@ function test() {
 ```
 
 
-$$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+## LaTeX
 
+Upmath converts LaTeX equations in double-dollars `$$`: $$ax^2+bx+c=0$$. All equations are rendered as block equations. If you need inline ones, you can add the prefix `\inline`: $$\inline p={1\over q}$$. Place big equations on separate lines:
 
-### Diagrams
-#### Flow charts
-```flow
-st=>start: Start
-e=>end
-op=>operation: My Operation
-cond=>condition: Yes or No?
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
+$$x_{1,2} = {-b\pm\sqrt{b^2 - 4ac} \over 2a}.$$
