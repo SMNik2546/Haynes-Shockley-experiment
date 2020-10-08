@@ -26,6 +26,3 @@ function test() {
 }
 ```
 
-'''python
-print("x" / "y")
-'''
