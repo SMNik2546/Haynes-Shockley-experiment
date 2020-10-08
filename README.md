@@ -26,6 +26,6 @@ function test() {
 }
 ```
 
-```math_def
-\newcommand{\foo}{Foo}
-```
+@equation(id)
+x = \sum_{i=1}{N} i
+@/
