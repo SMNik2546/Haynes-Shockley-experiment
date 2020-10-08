@@ -26,3 +26,6 @@ function test() {
 }
 ```
 
+```math_def
+\newcommand{\foo}{Foo}
+```
