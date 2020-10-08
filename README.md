@@ -25,7 +25,8 @@ function test() {
  console.log("look ma’, no spaces");
 }
 ```
-
+```LaTeX
 $$\Theta = \begin{pmatrix}\alpha & \beta\\
 \gamma & \delta
 \end{pmatrix}$$
+```
