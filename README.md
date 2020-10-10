@@ -16,7 +16,7 @@ Important fields: ***lifetime, drift velocity, electric field***
 E<sub>s</sub> is an internal electric pulse field that produced by a pulsed generator. Distance between optical fiber and needle (<ins>point contact</ins>) is d. V<sub>s</sub> is the electrical pulls and V<sub>l</sub> is the laser pulls. The laser pulls causes 2 small peak between up and down main semiconductor peak. The
 second peak is the wider and relevant to minority carriers. 
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=V_{d}=\frac{d}{t}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V_{d}=\frac{d}{t}" title="V_{d}=\frac{d}{t}" /></a> is the drift velocity.
+
 
 </p>
 
@@ -26,12 +26,12 @@ second peak is the wider and relevant to minority carriers.
 </head>
 <body>
 
-<h1>The table element</h1>
+<h1>Functions Table</h1>
 
 <table>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th>is the drift velocity</th>
+    <th><a href="https://www.codecogs.com/eqnedit.php?latex=V_{d}=\frac{d}{t}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V_{d}=\frac{d}{t}"        title="V_{d}=\frac{d}{t}" /></a></th>
   </tr>
   <tr>
     <td>January</td>
