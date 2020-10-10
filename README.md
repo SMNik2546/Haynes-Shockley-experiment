@@ -34,32 +34,16 @@ second peak is the wider and relevant to minority carriers.
     <td><a href="https://www.codecogs.com/eqnedit.php?latex=V_{d}=\frac{d}{t}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V_{d}=\frac{d}{t}"        title="V_{d}=\frac{d}{t}" /></a></td>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td>sweep field (L : sample length)</td>
+    <td><a href="https://www.codecogs.com/eqnedit.php?latex=E_{s}=\frac{V_{s}}{L}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E_{s}=\frac{V_{s}}{L}" title="E_{s}=\frac{V_{s}}{L}" /></a></td>
   </tr>
   <tr>
-    <td>February</td>
-    <td>$80</td>
+    <td>So electron mobility is </td>
+    <td><a href="https://www.codecogs.com/eqnedit.php?latex=\mu&space;=\frac{|V_{d}|}{|E_{s}|}=\frac{Ld}{t&space;V_{s}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mu&space;=\frac{|V_{d}|}{|E_{s}|}=\frac{Ld}{t&space;V_{s}}" title="\mu =\frac{|V_{d}|}{|E_{s}|}=\frac{Ld}{t V_{s}}" /></a></td>
   </tr>
 </table>
 
 </body>
 </html>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<html>
-<head>
-<title>Mathedemo</title>
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-</script>
-<script type="text/javascript"
-  src="http://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-</head>
-<body>
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-$$ \begin{array}{rcll}
-\end{array} $$
-</body>
-</html>
+
