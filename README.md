@@ -30,8 +30,8 @@ second peak is the wider and relevant to minority carriers.
 
 <table>
   <tr>
-    <th>is the drift velocity</th>
-    <th><a href="https://www.codecogs.com/eqnedit.php?latex=V_{d}=\frac{d}{t}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V_{d}=\frac{d}{t}"        title="V_{d}=\frac{d}{t}" /></a></th>
+    <td>is the drift velocity</td>
+    <td><a href="https://www.codecogs.com/eqnedit.php?latex=V_{d}=\frac{d}{t}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V_{d}=\frac{d}{t}"        title="V_{d}=\frac{d}{t}" /></a></td>
   </tr>
   <tr>
     <td>January</td>
