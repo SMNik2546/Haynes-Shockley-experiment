@@ -13,4 +13,4 @@ Important fields: ***lifetime, drift velocity, electric field***
 <hr>
 <h2>Measurement of drift velocity</h2>
 E<sub>s</sub> is an internal electric pulse field that produced by a pulsed generator. Distance between optical fiber and needle (<ins>point contact</ins>) is d. V<sub>s</sub> is the electrical pulls and V<sub>l</sub> is the laser pulls. The laser pulls causes 2 small peak between up and down main semiconductor peak. The
-second peak is the wider and relevant to minority carriers. \![equation1](https://latex.codecogs.com/gif.latex?V_{d}=\frac{d}{t})\ is the drift velocity.
+second peak is the wider and relevant to minority carriers. ***![equation1](https://latex.codecogs.com/gif.latex?V_{d}=\frac{d}{t})*** is the drift velocity.
