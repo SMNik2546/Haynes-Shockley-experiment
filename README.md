@@ -54,6 +54,16 @@ second peak is the wider and relevant to minority carriers. <a href="https://www
        "[4, 16, 36, 64]"
       ]
      },
+     "execution_count": 11,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "data = [1, 2, 3, 4, 5, 6, 7, 8, 9]\n",
+    "[x**2 for x in data if x%2==0]"
+   ]
+  },
 
  "nbformat": 4,
  "nbformat_minor": 2
