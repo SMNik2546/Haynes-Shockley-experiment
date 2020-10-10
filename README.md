@@ -15,9 +15,6 @@ Important fields: ***lifetime, drift velocity, electric field***
 <p>
 E<sub>s</sub> is an internal electric pulse field that produced by a pulsed generator. Distance between optical fiber and needle (<ins>point contact</ins>) is d. V<sub>s</sub> is the electrical pulls and V<sub>l</sub> is the laser pulls. The laser pulls causes 2 small peak between up and down main semiconductor peak. The
 second peak is the wider and relevant to minority carriers. 
-
-
-
 </p>
 
 <!DOCTYPE html>
@@ -50,4 +47,6 @@ second peak is the wider and relevant to minority carriers.
 </body>
 </html>
 
-
+<hr>
+<p>
+  The semiconductor sample is a thin bar (approximately 3x3x30 mm) of single crystal ingot.
