@@ -47,6 +47,15 @@ second peak is the wider and relevant to minority carriers.
 </body>
 </html>
 
-<hr>
 <p>
   The semiconductor sample is a thin bar (approximately 3x3x30 mm) of single crystal ingot.
+</p>
+
+<hr>
+<h3>Measurement of the time of flight t</h3>
+<p>
+  Due to the constant of the distance and the moving fields, the flight time is also constant, which
+does not depend on the density of the laser pulse. So light pulse just increases peak of graph
+relevant to the voltage.
+  Despite the fact that t is grew by increasing inject charge density.
+  </p>
